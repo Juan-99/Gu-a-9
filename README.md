@@ -134,4 +134,8 @@ Las aplicaciones más comunes de los amplificadores operacionales son las siguie
 
 **BIBLIOGRAFÍA**
 
+Gonzáles, A. (2016, July 18). Amplificador Operacional by Alexander González - issuu. https://issuu.com/alexandergonzalez86/docs/informe_2.3_ao.docx
+
+Gonzáles López, L. (2018, February 3). Amplificadores de Potencia: clasificación, clase A, B, AB, C - Electrónica Unicrom. https://unicrom.com/amplificadores-de-potencia-clasificacion/
+
 **ANEXOS**
