@@ -1,5 +1,7 @@
 # Laboratorio-8
 
+## Amplificadores Operacionales
+
 1. OBJETIVOS
 
 Objetivo General
