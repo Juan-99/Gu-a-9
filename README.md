@@ -30,7 +30,7 @@ Objetivos Específicos
 
 ![.](https://github.com/Juan-99/Gu-a-9/blob/main/img/Circuito_3.png)
 
-
+![.](https://github.com/Juan-99/Gu-a-9/blob/main/img/Se%C3%B1al_3.png)
 
 **4. LISTA DE COMPONENTES**
 
