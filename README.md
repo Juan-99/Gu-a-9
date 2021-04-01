@@ -14,6 +14,8 @@ Objetivos Específicos
 
 2. MARCO TEÓRICO
 
+![,]
+
 3. DIAGRAMAS
 
 4. LISTA DE COMPONENTES
