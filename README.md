@@ -20,15 +20,27 @@ Objetivos Específicos
 
 **3. DIAGRAMAS**
 
+Circuito A
+
 ![.](https://github.com/Juan-99/Gu-a-9/blob/main/img/Circuito_1.png)
+
+Señal del circuito A
 
 ![.](https://github.com/Juan-99/Gu-a-9/blob/main/img/Se%C3%B1al_1.png)
 
+Circuito B
+
 ![.](https://github.com/Juan-99/Gu-a-9/blob/main/img/Circuito_2.png)
+
+Señal del circuito B
 
 ![.](https://github.com/Juan-99/Gu-a-9/blob/main/img/Se%C3%B1al_2.png)
 
+Circuito c
+
 ![.](https://github.com/Juan-99/Gu-a-9/blob/main/img/Circuito_3.png)
+
+Señal del circuti C
 
 ![.](https://github.com/Juan-99/Gu-a-9/blob/main/img/Se%C3%B1al_3.png)
 
