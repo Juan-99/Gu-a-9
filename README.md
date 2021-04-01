@@ -49,39 +49,37 @@ Objetivos Específicos
 
 **Preguntas**
 
-1. Anote parámetros técnicos importantes de un amplificador operacional que deben ser
-tomados en cuenta al momento de utilizarlos en un proyecto.
+**1. Anote parámetros técnicos importantes de un amplificador operacional que deben ser tomados en cuenta al momento de utilizarlos en un proyecto.**
 
-a. Tension de alimentación (V+ y V)
+  a. Tension de alimentación (V+ y V)
 
-Es la tensión de alimentación máxima que puede aplicarse con seguridad al amplificador.
+    Es la tensión de alimentación máxima que puede aplicarse con seguridad al amplificador.
 
-b. Rango de temperaturas de operación (Tor)
+  b. Rango de temperaturas de operación (Tor)
 
-Es el rango de temperatura dentro del cual el dispositivo funcionas con las especificaciones mostradas.
+    Es el rango de temperatura dentro del cual el dispositivo funcionas con las especificaciones mostradas.
 
-c. Tensión de entrada diferencial (Vid)
+  c. Tensión de entrada diferencial (Vid)
 
-Es la tensión máxima que puede aplicarse con seguridad entre los terminales de entrada diferencial sin flujo excesivo de corriente.
+    Es la tensión máxima que puede aplicarse con seguridad entre los terminales de entrada diferencial sin flujo excesivo de corriente.
 
-d. Voltaje de entrada en modo común (Vcm)
+  d. Voltaje de entrada en modo común (Vcm)
 
-Es el rango de voltaje que se puede aplicar en ambas respecto a tierra.
+    Es el rango de voltaje que se puede aplicar en ambas respecto a tierra.
 
-e. Consumo de potencia (Pc)
+  e. Consumo de potencia (Pc)
 
-Es la potencia requerida para operar el AO  o la potencia consumida por el AO con propositos de polarización.
+    Es la potencia requerida para operar el AO  o la potencia consumida por el AO con propositos de polarización.
 
-f. Disipación de potencia (PD)
+  f. Disipación de potencia (PD)
 
-Es la potencia que un dispositivo particular es capaz de disipar con seguridad en forma continua mientras opera dentro de un rango de temperatura específico.
+    Es la potencia que un dispositivo particular es capaz de disipar con seguridad en forma continua mientras opera dentro de un rango de temperatura específico.
 
-2. Investigue las características de amplificadores operacionales distintos a los utilizados en
-esta práctica.
+**2. Investigue las características de amplificadores operacionales distintos a los utilizados en esta práctica.**
 
-LM 741
+  LM 741
 
-Este dispositivo es un amplificador de propósito general vastante conocido y de uso muy extendido, Sus parámetros son bstante regulares, presenta una alta impedancia, de entrada, pequeños offset(de corriente y voltaje) en la entrada.
+  Este dispositivo es un amplificador de propósito general vastante conocido y de uso muy extendido, Sus parámetros son bstante regulares, presenta una alta impedancia, de entrada, pequeños offset(de corriente y voltaje) en la entrada.
 
 LM 725
 
@@ -99,8 +97,8 @@ NE 5533
 
 Este chip es el que posee peores prestaciones de entre los anteriores amplificadores, su impedancia de entrada es la menos alta de todas y su corriente de polarización la más elevada, es un amplificador para aplicaciones en las que no se requiera de alta precisión.
 
-3. Investigue otras aplicaciones con circuitos más complejos que utilizan amplificadores
-operacionales.
+**3. Investigue otras aplicaciones con circuitos más complejos que utilizan amplificadores
+operacionales.**
 
 Las aplicaciones más comunes de los amplificadores operacionales son las siguietnes:
 
