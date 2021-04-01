@@ -134,6 +134,8 @@ Las aplicaciones más comunes de los amplificadores operacionales son las siguie
 
 **BIBLIOGRAFÍA**
 
+El Amplificador Operacional. (s. f.). EPA. Recuperado 1 de abril de 2021, de https://www.diarioelectronicohoy.com/blog/el-amplificador-operacional
+
 García, V. (2010, November 9). El Amplificador Operacional – Electrónica Práctica Aplicada. https://www.diarioelectronicohoy.com/blog/el-amplificador-operacional
 
 Gonzáles, A. (2016, July 18). Amplificador Operacional by Alexander González - issuu. https://issuu.com/alexandergonzalez86/docs/informe_2.3_ao.docx
