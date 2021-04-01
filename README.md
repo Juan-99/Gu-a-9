@@ -47,6 +47,17 @@ Objetivos Específicos
 
 **5. EXPLICACIÓN**
 
+**Preguntas**
+
+1. Anote parámetros técnicos importantes de un amplificador operacional que deben ser
+tomados en cuenta al momento de utilizarlos en un proyecto.
+
+2. Investigue las características de amplificadores operacionales distintos a los utilizados en
+esta práctica.
+
+3. Investigue otras aplicaciones con circuitos más complejos que utilizan amplificadores
+operacionales.
+
 **CONCLUSIONES**
 
 •	La diferencia de potencial entre las terminales inversora y no inversora es, o debe ser nula.
