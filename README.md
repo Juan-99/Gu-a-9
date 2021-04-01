@@ -22,6 +22,10 @@ Objetivos Específicos
 
 6. CONCLUSIONES
 
+•	La diferencia de potencial entre las terminales inversora y no inversora es, o debe ser nula.
+
+•	La impedancia entre las entradas inversora y no inversora es infinita, por lo que no hay corriente de entrada.
+
 7. BIBLIOGRAFÍAS
 
 8. ANEXOS
