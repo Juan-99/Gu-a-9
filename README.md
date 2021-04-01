@@ -34,6 +34,17 @@ Objetivos Específicos
 
 **4. LISTA DE COMPONENTES**
 
+|**ELEMENTO**|
+|:----:|
+|Generador de señales|
+|Fuente DC|
+|Osciloscopio|
+|Protoboard|
+|Multímetro|
+|Cables conductores|
+|Resistencias, Capacitadores|
+|Amplificadores operacionales|
+
 **5. EXPLICACIÓN**
 
 **CONCLUSIONES**
