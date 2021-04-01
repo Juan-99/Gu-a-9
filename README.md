@@ -73,8 +73,10 @@ Objetivos Específicos
 
   f. Disipación de potencia (PD)
 
-  la potencia que un dispositivo particular es capaz de disipar con seguridad en forma continua mientras opera    
+  Es 
+  la potencia que un dispositivo particular es capaz de disipar con seguridad en forma continua mientras opera
   dentro de un rango de temperatura específica. Esta caracteristica varia de acuerdo al tipo de encapsulado.
+  
 
 **2. Investigue las características de amplificadores operacionales distintos a los utilizados en esta práctica.**
 
