@@ -2,7 +2,7 @@
 
 ## Amplificadores Operacionales
 
-1. OBJETIVOS
+**1. OBJETIVOS**
 
 Objetivo General
 
@@ -14,22 +14,34 @@ Objetivos Específicos
 
 •	Elaborar un circuito donde se aplique un amplificador operacional.
 
-2. MARCO TEÓRICO
+**2. MARCO TEÓRICO**
 
-![,]
+![,](https://github.com/Juan-99/Gu-a-9/blob/main/img/Mapa_Amplificadores.png)
 
-3. DIAGRAMAS
+**3. DIAGRAMAS**
 
-4. LISTA DE COMPONENTES
+![.](https://github.com/Juan-99/Gu-a-9/blob/main/img/Circuito_1.png)
 
-5. EXPLICACIÓN
+![.](https://github.com/Juan-99/Gu-a-9/blob/main/img/Se%C3%B1al_1.png)
 
-6. CONCLUSIONES
+![.](https://github.com/Juan-99/Gu-a-9/blob/main/img/Circuito_2.png)
+
+![.](https://github.com/Juan-99/Gu-a-9/blob/main/img/Se%C3%B1al_2.png)
+
+![.](https://github.com/Juan-99/Gu-a-9/blob/main/img/Circuito_3.png)
+
+
+
+**4. LISTA DE COMPONENTES**
+
+**5. EXPLICACIÓN**
+
+**CONCLUSIONES**
 
 •	La diferencia de potencial entre las terminales inversora y no inversora es, o debe ser nula.
 
 •	La impedancia entre las entradas inversora y no inversora es infinita, por lo que no hay corriente de entrada.
 
-7. BIBLIOGRAFÍAS
+**BIBLIOGRAFÍA**
 
-8. ANEXOS
+**ANEXOS**
